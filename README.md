@@ -1,4 +1,4 @@
-## Project for the course in Microeconometrics | Summer 2020, M.Sc. Economics, Bonn University | Jieun Kim
+## Project for Microeconometrics | Summer 2020, M.Sc. Economics, Bonn University | Jieun Kim
 
 
 This repository presents my replication of the results from the following paper:
