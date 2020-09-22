@@ -3,7 +3,7 @@
 
 This repository presents my replication of the results from the following paper:
 
-> González, Libertad. 2013. ["The Effect of a Universal Child Benefit on Conceptions, Abortions, and Early Maternal Labor Supply."](https://www.aeaweb.org/articles?id=10.1257/pol.5.3.160) American Economic Journal: Economic Policy, 5 (3): 160-88.
+> González, Libertad. (2013). ["The Effect of a Universal Child Benefit on Conceptions, Abortions, and Early Maternal Labor Supply."](https://www.aeaweb.org/articles?id=10.1257/pol.5.3.160) American Economic Journal: Economic Policy, 5 (3): 160-88.
  
 
 ### Replication of Libertad González (2013) 
