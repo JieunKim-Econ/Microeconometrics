@@ -11,7 +11,7 @@ This repository presents my replication of the results from the following paper:
 
 González (2013) examines the effects of a child subsidy on fertility, household expenditure, and maternal labor supply in Spain. The distinguishing feature of this paper is that it applies regression discontinuity(RD) design as well as difference in differences (DID) estimates. From an “unanticipated” introduction of a new law with benefit eligibility based on a certain date, the author exploits a natural experiment with randomization and the sharp cutoff. A universal child benefit, a one-time cash payment of €2,500, was announced on July 3 in 2007 in Spain, and mothers were eligible if their child was born after July 1 and this date was not announced beforehand. This setup enables RD analysis where the treatment effect is the difference in outcomes between treated (who receive a benefit) and control families (who do not) close to the cutoff.      
 
-The purpose of this notebook is to revisit the main result and explore the policy impacts from more expended perspective. Furthermore, I extend the analysis of the labor supply effect with different subpopulation grouped by parent’s education level and marital status.
+The purpose of this notebook is to revisit the main result and explore the policy impacts from more expended perspective. Thus, I extend the analysis of the labor supply effect with different subpopulation grouped by parent’s education level and marital status.
 
 ### References
 
